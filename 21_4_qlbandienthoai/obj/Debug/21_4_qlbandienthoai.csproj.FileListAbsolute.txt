@@ -1,0 +1,137 @@
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe.config
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.pdb
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.AssemblyReference.cache
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.SuggestedBindingRedirects.cache
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Form1.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.FrmSanPham.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Properties.Resources.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.GenerateResource.cache
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.CoreCompileInputs.cache
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.exe
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.pdb
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmKhachHang.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmLoaiSanPham.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmGiaoDienChinh.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhanVien.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.MDIParent1.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmMau.resources
+F:\Nam2\HK4\LT Windows & DAMH\Do An\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmtimkiem.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe.config
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.pdb
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.AssemblyReference.cache
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.SuggestedBindingRedirects.cache
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmGiaoDienChinh.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmKhachHang.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmLoaiSanPham.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhanVien.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.FrmSanPham.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmtimkiem.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.MDIParent1.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Properties.Resources.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.GenerateResource.cache
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.CoreCompileInputs.cache
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.exe
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.pdb
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhaCungCap.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.size.resources
+C:\Users\tdgam\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSearchSP.resources
+E:\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe.config
+E:\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe
+E:\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.pdb
+E:\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.AssemblyReference.cache
+E:\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.SuggestedBindingRedirects.cache
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmGiaoDienChinh.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmKhachHang.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmLoaiSanPham.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhaCungCap.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhanVien.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.FrmSanPham.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSearchSP.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmtimkiem.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.MDIParent1.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Properties.Resources.resources
+E:\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.size.resources
+E:\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.GenerateResource.cache
+E:\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.CoreCompileInputs.cache
+E:\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.exe
+E:\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.pdb
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe.config
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.pdb
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.AssemblyReference.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.SuggestedBindingRedirects.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmGiaoDienChinh.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmKhachHang.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmLoaiSanPham.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhaCungCap.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhanVien.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSearchSP.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmtimkiem.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.MDIParent1.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Properties.Resources.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.size.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.GenerateResource.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.CoreCompileInputs.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.exe
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.pdb
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.FormMainMenu.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSanPham.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe.config
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.AssemblyReference.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.SuggestedBindingRedirects.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.Form1.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.FormMainMenu.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmGiaoDienChinh.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmHoaDonBan.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmHoaDonNhap.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmKhachHang.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmLoaiSanPham.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmMau.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhaCungCap.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhanVien.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmPhienBan.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmPhienBanRunTime.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSanPham.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchHDBAN.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchHDNHAP.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchNV.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSearchSP.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchAll.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Properties.Resources.resources
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.GenerateResource.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.CoreCompileInputs.cache
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.exe
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.pdb
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.pdb
+E:\ADMIN\0306211019_PhanLeTruongDuc\HK4\LT Windows\DAMH\21_4_qlbandienthoai\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchKH.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe.config
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.exe
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\bin\Debug\21_4_qlbandienthoai.pdb
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.AssemblyReference.cache
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.Form1.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.FormMainMenu.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmGiaoDienChinh.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmHoaDonBan.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmHoaDonNhap.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmKhachHang.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmLoaiSanPham.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmMau.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhaCungCap.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmNhanVien.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmPhienBan.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmPhienBanRunTime.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSanPham.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchHDBAN.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchHDNHAP.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchKH.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchNV.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.frmSearchSP.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Forms.frmSearchAll.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\_21_4_qlbandienthoai.Properties.Resources.resources
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.GenerateResource.cache
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.csproj.CoreCompileInputs.cache
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.exe
+C:\Users\vietq\Downloads\21_4_qlbandienthoai (2)\21_4_qlbandienthoai\obj\Debug\21_4_qlbandienthoai.pdb
